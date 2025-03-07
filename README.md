@@ -10,7 +10,7 @@
 
 "DURATION":8 WEEKS
 
-"MENTOR":NEELA_SANTHU
+"MENTOR":NEELA SANTOSH
 
 "DESCRIPTION":This project implements a Speech Recognition System using Python and the SpeechRecognition library. It captures audio input from a microphone, processes it, and converts it into text using Google Speech Recognition API.
 Features:Uses a microphone to capture real-time audio input.
